@@ -1,0 +1,5 @@
+{
+    "java.help.collectErrorLog": true,
+    "emulator.androidColdBoot": true,
+    "emulator.emulatorPath": "C\\:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Android\\\\Sdk\\emulator"
+}
